@@ -1,0 +1,25 @@
+id,parent_id,name,external_id,_fivetran_deleted,_fivetran_synced
+56216,,Product,,false,2021-06-04 06:54:48.613000
+68284,,Yoco Team | Yoco | Generic,,true,2021-03-31 08:30:26.840000
+59971,,Customer Operations,,false,2021-06-04 06:54:48.614000
+65841,,"Risk & Compliance Management | Risk & Compliance | Controlling, Legal & Admin",,true,2021-03-31 08:30:26.840000
+59968,,Product & Engineering | Product | Product & Operational Scalability,,true,2021-03-31 08:30:26.841000
+56213,,"Design | Product Strategy, Design & Insights",,true,2021-03-31 08:30:26.839000
+31637,,Operations | User Operations | Customer Operations,,true,2021-03-31 08:30:26.841000
+59973,,Information Technology | Infrastructure | Technology and Engineering,,true,2021-03-31 08:30:26.840000
+71363,,Design,,true,2021-03-31 08:30:26.839000
+59977,,Product & Engineering | Engineering | Product Strategy & Design,,true,2021-03-31 08:30:26.840000
+59975,,Marketing | Brand ,,true,2021-04-01 06:28:10.757000
+59976,,People & Culture ,,false,2021-06-04 06:54:48.614000
+59972,,Finance & Legal,,false,2021-06-04 06:54:48.614000
+56212,,Product & Engineering | Engineering | Technology and Engineering,,true,2021-03-31 08:30:26.841000
+56214,,"People | Administrative | Controlling, Legal & Admin",,true,2021-03-31 08:30:26.840000
+64858,,Technology & Engineering,,false,2021-06-04 06:54:48.613000
+59974,,Brand Marketing ,,false,2021-06-04 06:54:48.614000
+59970,,Product & Engineering | Product | Product Strategy & Design,,true,2021-03-31 08:30:26.841000
+64134,,Business Strategy | Strategic Execution | Executive Office,,true,2021-03-31 08:30:26.840000
+71364,,Analytics,,false,2021-06-04 06:54:48.613000
+66025,,*Job Templates,,true,2021-03-31 08:30:26.840000
+73082,,Strategic Business Development | Retail,,false,2021-06-04 06:54:48.613000
+63588,,Business Strategy | Expansion | Strategic Business Development,,true,2021-03-31 08:30:26.840000
+56210,,Marketing & Sales | Sales | Revenue,,true,2021-03-31 08:30:26.840000
